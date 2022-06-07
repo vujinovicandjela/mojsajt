@@ -1,0 +1,21 @@
+body{
+    background-color:wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+h1{
+    background-color: burlywood;
+    margin-right: 750px;
+}
+h2{
+    background-color:darkkhaki;
+    margin-right: 800px;
+}
+h3{
+    background-color: sandybrown;
+    margin-right: 650px;
+}
+nav{
+    background-color: tan;
+    margin-right: 850px;
+}
